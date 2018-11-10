@@ -1,0 +1,4 @@
+myapp:
+  image: myapp
+  ports:
+    - "8888:8080"
